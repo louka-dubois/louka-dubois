@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, I'm [Louka Dubois][twitter] 👋
 
-<!--
-**louka-dubois/louka-dubois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16 years old Canadian possionate of coding and graphic design!
+I like to create game prototypes and other abtract projects with my knowledge in programming.
 
-Here are some ideas to get you started:
+- 💻 Curently working on a ray casting engine
+- 🕹 Also working on an infinite tilemap algorithm for 2D games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+### Languages i'm using
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="22px" alt="Lua" style="float: left; margin-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22px" style="float: left; margin-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22px" alt="Python" style="float: left; margin-right: 10px;" />
+
+[twitter]: https://twitter.com/louka_dubois
