@@ -10,8 +10,8 @@ I like to create game prototypes and other abtract projects with my knowledge in
 
 ### Languages i'm using
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="22px" alt="Lua" style="float: margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22px" style="float: margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22px" alt="Python" style="float: margin-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="22px" alt="Lua" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22px" alt="Python"/>
 
 [twitter]: https://twitter.com/louka_dubois
