@@ -1,4 +1,4 @@
-## Hi, I'm [Louka Dubois][twitter] 👋
+## Hi, I'm [Ellipse][twitter] 👋
 
 I'm a 16 years old Canadian possionate of coding and graphic design!
 I like to create game prototypes and other abtract projects with my knowledge in programming.
