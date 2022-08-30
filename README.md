@@ -8,4 +8,4 @@ I like to create game prototypes and other abtract projects with my knowledge in
 - 🕹 Also working on an infinite tilemap algorithm for 2D games
 
 
-[twitter]: https://twitter.com/louka_dubois
+[twitter]: https://twitter.com/ellipse-dev
